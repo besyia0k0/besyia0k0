@@ -30,8 +30,10 @@ Participated as an Back-end Developer
 **Application for learning and correction Korean pronunciation using AI and lip-reading** (2023.08 ~ 2023.12)
 
 Participated as an Application Developer  
+Participated in UI/UX Design  
 *Stacks*: 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 
 #### 🏆 Awards & Honors 
 **Excellence prize** for 2nd CAU LINC3.0 Capstone Design Contest(Engineering, Natural Sciences Division), 2023  
@@ -42,15 +44,17 @@ Participated as an Application Developer
 ### ***42Polar***
 **Web service for mentoring system in 42Seoul** (2022.06 ~ 2022.12)
 
-Participated as an Front-end & Back-end Developer  
+Participated as an Back-end & Front-end Developer  
+Participated in UI/UX Design  
 *Stacks*: 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white">
-/
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
+/
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 
 
 #### 🏆 Awards & Honors
