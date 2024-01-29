@@ -27,7 +27,7 @@ Participated as an Back-end Developer
 ---
 
 ### ***Lipple***
-**Application for learning and correction Korean pronunciation using AI and lip-reading** (2023.08 ~ 2023.12)
+**Application for learning and correction Korean pronunciation based on lip-reading** (2023.08 ~ 2023.12)
 
 Participated as an Application Developer  
 Participated in UI/UX Design  
@@ -59,7 +59,7 @@ Participated in UI/UX Design
 
 #### 🏆 Awards & Honors
 **Excellence prize(Innovation Academy Dean's prize)** for INNO-CON, 2022  
-*2022 이노베이션 아카데미 성과 공유 컨퍼런스 우수상(이노베이션 아카데미 학장상)*
+*2022 INNO-CON(이노베이션 아카데미 성과 공유 컨퍼런스) 우수상(이노베이션 아카데미 학장상)*
 
 ---
 
