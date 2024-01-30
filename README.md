@@ -17,7 +17,7 @@
 ### ***[ft_transcendence](https://github.com/42masterplan/ft_transcendence-back)***
 **Web service for pong game with chat and social features; _Graduation products of 42Seoul_** (2023.08 ~ 2024.01)  
 
-Participated as an Back-end Developer  
+Participated as a Back-end Developer  
 *Stacks*: 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
@@ -44,7 +44,7 @@ Participated in UI/UX Design
 ### ***[42Polar](https://github.com/42connected/polar-be)***
 **Web service for mentoring system in 42Seoul** (2022.06 ~ 2022.12)
 
-Participated as an Back-end & Front-end Developer  
+Participated as a Back-end & Front-end Developer  
 Participated in UI/UX Design  
 *Stacks*: 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white">
