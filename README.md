@@ -14,8 +14,8 @@
 
 ## 💻 Projects
 
-### ***ft_transcendence***
-**Web service for pong game with chat and social features; _Graduation products of 42Seoul_** (2023.08 ~ 2024.01)
+### ***[ft_transcendence](https://github.com/42masterplan/ft_transcendence-back)***
+**Web service for pong game with chat and social features; _Graduation products of 42Seoul_** (2023.08 ~ 2024.01)  
 
 Participated as an Back-end Developer  
 *Stacks*: 
@@ -26,7 +26,7 @@ Participated as an Back-end Developer
 
 ---
 
-### ***Lipple***
+### ***[Lipple](https://github.com/Cau-Lipple/lipple-app)***
 **Application for learning and correction Korean pronunciation based on lip-reading** (2023.08 ~ 2023.12)
 
 Participated as an Application Developer  
@@ -41,7 +41,7 @@ Participated in UI/UX Design
 
 ---
 
-### ***42Polar***
+### ***[42Polar](https://github.com/42connected/polar-be)***
 **Web service for mentoring system in 42Seoul** (2022.06 ~ 2022.12)
 
 Participated as an Back-end & Front-end Developer  
