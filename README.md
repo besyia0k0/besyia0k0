@@ -9,7 +9,7 @@
 * Majoring in Computer Science & Engineering at <a href="https://www.cau.ac.kr/"><i>Chung-Ang Univ., Seoul, Republic of Korea</i><a> (2020.03 ~)
 * Studying Computer Science at <a href="https://42seoul.kr/"><i>42Seoul, Seoul, Republic of Korea</i></a>
     - as a Member (2024.01 ~)
-    - as a Cadet (2022.03 ~ 2024.01)
+    - as a Learner (2022.03 ~ 2024.01)
 <br/>
 
 ## 💻 Projects
