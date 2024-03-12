@@ -1,19 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=DCD6F7&height=260&section=header&text=Hyeonsol%20Kong&fontSize=60&fontColor=A6B1E1&fontAlignY=40&desc=besyia0k0,%20hkong&descAlignY=52&descAlign=61&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=DCD6F7&height=260&section=header&text=Hyeonsol%20Kong&fontSize=60&fontColor=A6B1E1&fontAlignY=40&desc=sorah,%20hkong&descAlignY=52&descAlign=63&animation=fadeIn)
 
 <a href="mailto:besyia0k0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:besyia0k0@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/hyeonsolkong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://velog.io/@besyia0k0"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
-## 👩🏻‍💻 About me
+## ✨ Experience
+* _**[goorm](https://goorm.co/)**, Seongnam, Republic of Korea_
+    - Internship as a Full-Stack Developer (2024.03 ~ )
 
-* Majoring in Computer Science & Engineering at <a href="https://www.cau.ac.kr/"><i>Chung-Ang Univ., Seoul, Republic of Korea</i><a> (2020.03 ~)
-* Studying Computer Science at <a href="https://42seoul.kr/"><i>42Seoul, Seoul, Republic of Korea</i></a>
-    - as a Member (2024.01 ~)
-    - as a Learner (2022.03 ~ 2024.01)
+## 📚 Education
+* _**[42Seoul](https://42seoul.kr/)**, Seoul, Republic of Korea_
+    - Member (2024.01 ~ )
+    - Learner (2022.03 ~ 2024.01)
+* _**[Chung-Ang Univ.](https://www.cau.ac.kr/)**, Seoul, Republic of Korea_
+    - Major in Computer Science & Engineering (2020.03 ~ )
 <br/>
 
 ## 💻 Projects
-
 ### ***[ft_transcendence](https://github.com/42masterplan/ft_transcendence-back)***
 **Web service for pong game with chat and social features; _Graduation products of 42Seoul_** (2023.08 ~ 2024.01)  
 
