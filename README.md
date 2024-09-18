@@ -6,7 +6,7 @@
 
 ## ✨ Experience
 * _**[goorm](https://goorm.co/)**, Seongnam, Republic of Korea_
-    - Internship as a Full-Stack Developer (2024.03 ~ )
+    - Internship as a Full-Stack Developer (2024.03 ~ 2024.06)
 
 ## 📚 Education
 * _**[42Seoul](https://42seoul.kr/)**, Seoul, Republic of Korea_
